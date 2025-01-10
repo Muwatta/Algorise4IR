@@ -12,7 +12,7 @@ const Header = () => {
         <div className="ml-10 flex-shrink-0">
           <a href="/">
             <img
-              src="/src/images/ATE-img-logo.jpg"
+              src="src\Images\ATE-img-logo.jpg"
               alt="ATE Logo"
               className="w-16 h-auto rounded-md"
             />
